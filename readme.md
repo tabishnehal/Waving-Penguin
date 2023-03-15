@@ -2,7 +2,7 @@
 
 [wavingPenguin.webm](https://user-images.githubusercontent.com/51947285/225391160-76599ab6-58a8-4074-8c13-2d462dd9e6d3.webm)
 
-
+## [Deployment link](https://tabishnehal.github.io/Waving-Penguin/)
 ---
 
 ### **Steps followed to make Penguin wave!**
