@@ -29,6 +29,15 @@
    - **40% -** applied **rotate** with **130deg** clockwise to **transform** property.
 7. **Finally**, applied created **@keyframes** rule named **wave** to left arm of the penguin with **1s** of **animation-duration**, **linear** timing, **infinite** iterative count.
 
-If you also want to learn CSS transform like I learnt then head over to :link: [w3schools](https://www.w3schools.com/css/css3_2dtransforms.asp), :link: [freeCodeCamp](https://www.freecodecamp.org/).
+
+### CSS concepts learned :fire: and applied :hammer_and_wrench:
+ - CSS Variables.
+ - CSS Animation.
+ - CSS Transform.
+ - CSS Transition.
+ - CSS @keyframes rule.
+ - CSS gradient.
+
+If you also want to learn above CSS concepts like I learnt then head over to :link: [w3schools](https://www.w3schools.com/css/css3_2dtransforms.asp), :link: [freeCodeCamp](https://www.freecodecamp.org/).
 
 Don't forget to star :star: if you found it useful.
